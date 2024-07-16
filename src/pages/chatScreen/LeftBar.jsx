@@ -1,4 +1,3 @@
-import React from "react";
 import pp from "../../assets/profile.jpeg";
 
 function Person() {
